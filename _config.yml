@@ -1,3 +1,4 @@
+layout_spectrum: 0.17209150781854987
 typography_spectrum: 0.934490755200386
 color:
   brandStrength: 0.6993812650907785
@@ -5,12 +6,9 @@ color:
   saturation: 0.30190541013143957
   rhythmicContrast: 0.4231511896941811
   brandColors:
-    - '#73603D'
-    - '#BF8A49'
-    - '#F2CA80'
-    - '#5E5A59'
-    - '#0D0D0D'
-layout_spectrum: 0.17209150781854987
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: Vivedades
-title: Vivedades
-description: Reflections While  Wandering
