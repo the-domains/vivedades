@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vivedades]]></title>
+        <description><![CDATA[Vivedades]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Aug 2016 15:55:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 Amazing Health Benefits of Coconut Oil]]></title>
+            <description><![CDATA[<article><h1>10 Amazing Health Benefits of Coconut Oil</h1><p>Coconut oil is one of the few foods that can be classified as a "superfood." Its unique combination of fatty acids can have profound positive effects on health. This includes fat loss, better brain function and various other amazing benefits. Here are 10 impressive health benefits of coconut oil.</p><img src="https://authoritynutrition.com/wp-content/uploads/2013/07/woman-holding-a-cracked-coconut.jpg"></article>]]></description>
+            <link>https://authoritynutrition.com/top-10-evidence-based-health-benefits-of-coconut-oil/</link>
+            <guid isPermaLink="false">18148fb7-66dc-4a10-b94a-a0dbd855ef28</guid>
+            <pubDate>Mon, 22 Aug 2016 15:54:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
